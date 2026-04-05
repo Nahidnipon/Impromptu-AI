@@ -1,0 +1,5 @@
+{
+  "name": "Impromptu Speaker Pro",
+  "description": "Master the art of impromptu speaking with AI-powered topics, real-time transcription, and constructive feedback in multiple languages.",
+  "requestFramePermissions": ["microphone"]
+}
